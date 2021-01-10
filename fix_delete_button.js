@@ -2,8 +2,8 @@
 // @name         Fix Delete Button
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Prevent user from accidentally deleting a story
+// @author       Fnord666
 // @grant        none
 // @match http://soylentnews.org/*admin.pl*
 // @match http://*.soylentnews.org/*admin.pl*
